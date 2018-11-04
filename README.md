@@ -25,7 +25,13 @@ Open the Jupyter notebook `0_start_here`, put your cursor in the first cell and 
 
 Close and shutdown the `0_start_here` notebook and open up `1_sciencing_with_python` to begin!
 
+(Note: this tutorial covers the basics to get you started with Python and Jupyter and while it describes some features making Python a useful programming language for science, there are many more that have not been covered.)
+
+Recommendation for how to do this tutorial. Read the whole thing to get an understanding of everything it covers. Don't worry about memorizing the syntax.
+
+Next, open up the exercises notebook and work through them with the tutorial open as a reference. If you do the exercises yourself before looking at the solutions, you will get much more out of the tutorial. However, the solutions are there if you get stuck, or to check your results once you've finished.
+
 
 # If you have any difficulties with your installation
 
-Don't hesitate to reach out via email to any of the TAs.
+Search around for your problem on Google/Stackoverflow, as many others will probably have encountered and solved the same situation. If you can't find the answers you need, you can email one of the TAs.
