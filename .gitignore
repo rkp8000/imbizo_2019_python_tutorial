@@ -4,4 +4,7 @@
 !*.ipynb
 !*.py
 !.gitignore
+!example.csv
+!noise.csv
+!noise.npy
 
