@@ -29,6 +29,8 @@ The tutorial is broken into three main instructional notebooks.
 
 [3_tips_tricks_gotchas](3_tips_tricks_gotchas.ipynb) goes over several important gotchas (things to be aware of that may catch you off guard) and some helpful tips and tricks to speed up your Python and make it more fun.
 
+There is also an [exercises](exercises.ipynb) notebook to help you test your skills and knowledge. 
+
 Note that true Pythonistas may notice that not everything in this notebook is done in the most "Pythonic" way, but rather in a way to emphasize clarity and conceptual simplicty. But there are often many other and better ways of doing what's shown in these notebooks!
 
 # Running this tutorial
